@@ -126,18 +126,27 @@
   <tr>
     <td width="50%" valign="top">
       <h3>Engineering</h3>
-      <p><img src="https://progress-bar.dev/90/?title=Laravel&width=320&color=000000" alt="Laravel progress" /> Laravel ecosystem</p>
-      <p><img src="https://progress-bar.dev/82/?title=Frontend&width=320&color=111111" alt="Frontend progress" /> React and Next.js</p>
-      <p><img src="https://progress-bar.dev/78/?title=Mobile&width=320&color=222222" alt="Mobile progress" /> Flutter and mobile flow</p>
-      <p><img src="https://progress-bar.dev/84/?title=Database&width=320&color=333333" alt="Database progress" /> Database and API design</p>
+      <pre><code>Laravel ecosystem     ██████████████████░░ 90%
+React and Next.js     ████████████████░░░░ 82%
+Flutter mobile flow   ███████████████░░░░░ 78%
+Database and API      █████████████████░░░ 84%</code></pre>
     </td>
     <td width="50%" valign="top">
       <h3>Product Thinking</h3>
-      <p><img src="https://progress-bar.dev/88/?title=Workflow&width=320&color=000000" alt="Workflow progress" /> Workflow analysis</p>
-      <p><img src="https://progress-bar.dev/86/?title=Dashboard&width=320&color=111111" alt="Dashboard progress" /> Dashboard and reporting</p>
-      <p><img src="https://progress-bar.dev/80/?title=UI&width=320&color=222222" alt="UI progress" /> UI structure and visual layout</p>
-      <p><img src="https://progress-bar.dev/85/?title=Docs&width=320&color=333333" alt="Documentation progress" /> Documentation and diagrams</p>
+      <pre><code>Workflow analysis     ██████████████████░░ 88%
+Dashboard reporting   █████████████████░░░ 86%
+UI structure          ████████████████░░░░ 80%
+Documentation         █████████████████░░░ 85%</code></pre>
     </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td align="center" width="25%"><b>Backend</b><br />Laravel, PHP, REST API</td>
+    <td align="center" width="25%"><b>Frontend</b><br />React, Next.js, Tailwind</td>
+    <td align="center" width="25%"><b>Mobile</b><br />Flutter, Dart, Java</td>
+    <td align="center" width="25%"><b>Data</b><br />MySQL, SQL Server, Firebase</td>
   </tr>
 </table>
 
@@ -229,20 +238,45 @@ flowchart LR
 <h2 align="center">GitHub Signal</h2>
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=umrmaulana&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=d6d6d6&icon_color=ffffff&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umrmaulana&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=d6d6d6&langs_count=10" alt="Top languages" />
+  <a href="https://github.com/umrmaulana?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-000000?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+  <a href="https://github.com/umrmaulana?tab=followers"><img src="https://img.shields.io/github/followers/umrmaulana?style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=white&label=Followers" alt="GitHub followers" /></a>
+  <a href="https://github.com/umrmaulana?tab=stars"><img src="https://img.shields.io/github/stars/umrmaulana?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=white&label=Stars" alt="GitHub stars" /></a>
+</p>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>GitHub Overview</h3>
+      <pre><code>┌─ github.signal ─────────────────────┐
+│ profile    github.com/umrmaulana    │
+│ focus      Web, mobile, systems     │
+│ style      Clean, structured, useful│
+│ activity   Project-based development│
+│ showcase   Public repositories      │
+└─────────────────────────────────────┘</code></pre>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Repository Focus</h3>
+      <pre><code>Laravel systems       ██████████████████░░
+WebGIS exploration    ████████████████░░░░
+Mobile application    ███████████████░░░░░
+Dashboard workflow    █████████████████░░░</code></pre>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/umrmaulana/webGIS"><img src="https://img.shields.io/badge/Public%20Repository-webGIS-111111?style=for-the-badge&logo=github&logoColor=white" alt="webGIS repository" /></a>
+  <a href="https://github.com/umrmaulana/webGIS/commits"><img src="https://img.shields.io/github/last-commit/umrmaulana/webGIS?style=for-the-badge&color=111111&labelColor=111111&logo=github&logoColor=white" alt="Last commit webGIS" /></a>
+  <a href="https://github.com/umrmaulana/webGIS"><img src="https://img.shields.io/github/languages/top/umrmaulana/webGIS?style=for-the-badge&color=111111&labelColor=111111&logo=github&logoColor=white" alt="Top language webGIS" /></a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=umrmaulana&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=D6D6D6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8A8A" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=umrmaulana&theme=onestar&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" width="100%" alt="GitHub profile trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umrmaulana&bg_color=0d1117&color=ffffff&line=ffffff&point=888888&area=true&area_color=ffffff&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph" />
+  <a href="https://github.com/umrmaulana"><b>Open full GitHub profile</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/umrmaulana?tab=repositories"><b>View repositories</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/umrmaulana/webGIS"><b>View webGIS project</b></a>
 </p>
 
 <br />
